@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @halfdeer
-- 🌱 I’m currently learning unity and c#
-- 📫 How to reach me you don't
+wee
 
 <!---
 halfdeer/halfdeer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
